@@ -1,7 +1,7 @@
 # Land-It-Rocket-3D-Game
 This is a beginner friendly Unity 3d game project.  
 
-This is a old one and one of my first projects. I wasn't going to publish this since it is pretty basic to me right now. But I figured you can use it for beginners for educational purposes.
+This is a old one and one of my first projects. I wasn't going to publish it since it is pretty basic to me right now. But I figured you can use it for beginners for educational purposes.
 It has:
 
 - 3 levels
